@@ -1,6 +1,9 @@
 # DICE_CODE
 A 3D puzzle game where players solve room-based challenges by interpreting clues and using dice rolls as answers.
 
+*video trailer*
+[![DICE CODE Gameplay](https://img.youtube.com/vi/orTj9pTXq_o/maxresdefault.jpg)](https://www.youtube.com/watch?v=orTj9pTXq_o)
+
 # DICE CODE
 
 > 주사위의 “눈”을 해석하는 규칙이 매 스테이지마다 달라지는 3D 퍼즐 미궁 게임
