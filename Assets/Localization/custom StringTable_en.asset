@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: custom StringTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: a669a076d4e74944a9baa3ab3d828704, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 300067840000
+    m_Localized: Click to Select Stage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 657235729440768
+    m_Localized: Paused
+    m_Metadata:
+      m_Items: []
+  - m_Id: 657338296950784
+    m_Localized: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 657372451168256
+    m_Localized: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 657487148605440
+    m_Localized: Select Stage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 657510217277440
+    m_Localized: Exit game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 657569533124608
+    m_Localized: Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 657604610088960
+    m_Localized: Dice Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1113193257623552
+    m_Localized: Hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1140100791525376
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1141005502898176
+    m_Localized: Credit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1166523652628480
+    m_Localized: 'Developed by RubyKnight
+
+
+      icons from icons8.com
+
+      SFX
+      from www.zapsplat.com
+
+
+      contact
+
+      rubyknightsgame@gmail.com'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1176110300651520
+    m_Localized: 'You can change the camera perspective by pressing W, A, S, D, or
+      Esc.
+
+
+
+      You can roll the dice by dragging and releasing the dice.
+
+
+
+      Clicking
+      on a slot allows you to enter the face of the current dice.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1178274037227520
+    m_Localized: Usually, people memorize it to two decimal places.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1180119744897024
+    m_Localized: 'Have you exited the maze?
+
+
+
+      Do you remember the process?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1180968550391808
+    m_Localized: Please give this stage a name.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1181435435147264
+    m_Localized: "You didn't really read that \nas \"7\", did you?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1182632439177216
+    m_Localized: "\u25A0=4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1183095519698944
+    m_Localized: There's one thing you missed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1358665654198272
+    m_Localized: Primary colors of light
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1452557628071936
+    m_Localized: "I am your friend dances with you \nbut the one who cannot sing.\r\n\r\nI
+      am a companion always with you \nbut the one who disappears at night.\r\n\r\nWho
+      am I from another dimension?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2176594784280576
+    m_Localized: "twinkle twinkle\u266A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2195468720267264
+    m_Localized: "Don't miss even \nthe little things.\r\n\r\nYou can only click
+      on \ndice and slots.\r\n\r\nHints can be viewed\nby pressing the ? button."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2195616531734528
+    m_Localized: Hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2195828868374528
+    m_Localized: Credit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2205371623006208
+    m_Localized: 'Congratulations!
+
+      You win!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2205858753667072
+    m_Localized: "This is a secret, \nwe are preparing \na hidden stage!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2206131035299840
+    m_Localized: Hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2208898307055616
+    m_Localized: "\uC5B8\uC5B4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210821449965568
+    m_Localized: 'We are developing
+
+      more stages!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2211729453867008
+    m_Localized: 'Thank you for
+
+      playing to the end!
+
+
+
+      Developed by
+
+      RubyKnight'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/00.Start.unity
+    guid: 3b68a11da5727da4eb65bbc355b51972
+  - enabled: 1
+    path: Assets/Scenes/01.Tutorial.unity
+    guid: 8544189f1fe390b409333447c56d2d3f
+  - enabled: 1
+    path: Assets/Scenes/02.Pi.unity
+    guid: 70e9b46302128684d86ab8aedeaa5f84
+  - enabled: 1
+    path: Assets/Scenes/03.Color.unity
+    guid: bc3b4027235aba543b1d26ef9ea26e06
+  - enabled: 1
+    path: Assets/Scenes/04.Gravity.unity
+    guid: d2ae816178220bf459cab5f7976042ef
+  - enabled: 1
+    path: Assets/Scenes/05.Piano.unity
+    guid: 6b68bb9962f789d498b6f6ebebe1dabb
+  - enabled: 1
+    path: Assets/Scenes/06.Laser.unity
+    guid: 6c7feb8a05d32f040891aec385a8e259
+  - enabled: 1
+    path: Assets/Scenes/07.Angle.unity
+    guid: 130b119ec7f42a146a714a38f3d51a04
+  - enabled: 1
+    path: Assets/Scenes/08.Maze.unity
+    guid: 689bae600b373b344bdc9253e3d13108
+  - enabled: 1
+    path: Assets/Scenes/09.Shadow.unity
+    guid: a3fc7a60d28631b449dead36ef070d31
+  - enabled: 1
+    path: Assets/Scenes/10.Ruin.unity
+    guid: 28e10d5956bbcc64892cd5384adb2d72
+  - enabled: 1
+    path: Assets/Scenes/21.Empty.unity
+    guid: 4e7ac0168f11f37429b6291d5d5b1c65
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: e470d848695e04845ba5d3fd0dff112e, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 7accd0d99a8558a4aa928c675888b4f3, type: 2}

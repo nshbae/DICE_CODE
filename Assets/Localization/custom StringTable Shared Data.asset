@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: custom StringTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: custom StringTable
+  m_TableCollectionNameGuidString: a669a076d4e74944a9baa3ab3d828704
+  m_Entries:
+  - m_Id: 300067840000
+    m_Key: 00.Start/map/non_wall/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 657235729440768
+    m_Key: Canvas/Canvas/Panel_pauseMask/Panel_pause/Text_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 657338296950784
+    m_Key: Canvas/Canvas/Panel_pauseMask/Panel_pause/Button_resume/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 657372451168256
+    m_Key: Canvas/Canvas/Panel_pauseMask/Panel_pause/Button_restart/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 657487148605440
+    m_Key: Canvas/Canvas/Panel_pauseMask/Panel_pause/Button_home/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 657510217277440
+    m_Key: Canvas/Canvas/Panel_pauseMask/Panel_pause/Button_quit/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 657569533124608
+    m_Key: Canvas/Canvas/Panel_pauseMask/Panel_pause/Slider_volume/Text (TMP)_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 657604610088960
+    m_Key: Canvas/Canvas/Panel_pauseMask/Panel_pause/Slider_diceSpeed/Text (TMP)_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1113193257623552
+    m_Key: Canvas/Canvas/Panel_pauseMask/Panel_pause/Button_hint/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1140100791525376
+    m_Key: Canvas/Canvas/Panel_hint/Button_ok/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1141005502898176
+    m_Key: Canvas/Canvas/Panel_hint/Text_title (1)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1166523652628480
+    m_Key: 00.Start/Canvas/Panel_hint/Text_hint 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1176110300651520
+    m_Key: 01.Tutorial/Canvas/Panel_hint/Text_hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1178274037227520
+    m_Key: 02.Pi/Canvas/Panel_hint/Text_hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1180119744897024
+    m_Key: 03.Maze/Canvas/Panel_hint/Text_hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1180968550391808
+    m_Key: 04.Gravity/Canvas/Panel_hint/Text_hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1181435435147264
+    m_Key: 06.Laser/Canvas/Panel_hint/Text_hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1182632439177216
+    m_Key: 07.Angle/Canvas/Panel_hint/Text_hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1183095519698944
+    m_Key: 20.Ruin/Canvas/Panel_hint/Text_hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1358665654198272
+    m_Key: 08.Color/Canvas/Panel_hint/Text_hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1452557628071936
+    m_Key: 09.Shadow/Canvas/Panel_hint/Text_hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2176594784280576
+    m_Key: 05.Piano/Canvas/Panel_hint/Text_hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2195468720267264
+    m_Key: 00.Start/Canvas/Panel_hint/Text_hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2195616531734528
+    m_Key: 00.Start/Canvas/Panel_hint/Text_title (1)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2195828868374528
+    m_Key: 00.Start/Canvas/Panel_popupMask/Panel_credit/Text_title (1)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2205371623006208
+    m_Key: 21.Empty/map/non_wall/Text_youwin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2205858753667072
+    m_Key: 21.Empty/Canvas/Panel_hint/Text_hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2206131035299840
+    m_Key: Canvas/Canvas/Panel_hint/Text_title (1) 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2208898307055616
+    m_Key: 00.Start/Canvas/Panel_pauseMask/Panel_pause/Button_hint/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210821449965568
+    m_Key: 21.Empty/map/non_wall/Text_credit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2211729453867008
+    m_Key: 21.Empty/map/non_wall/Text_credit (1)
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2081039251203424339
+  references:
+    version: 2
+    RefIds:
+    - rid: 2081039251203424339
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1715166682437
