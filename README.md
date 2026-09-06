@@ -428,7 +428,7 @@ Unity의 물리 환경 자체에 영향을 주도록 구성했습니다.
                             │
               ┌─────────────┴─────────────┐
               ▼                           ▼
-                    피드백               다음 스테이지
+          피드백                      다음 스테이지
 ```
 
 스테이지별 구성 요소는 동일한 주사위 상태를 서로 다른 방식으로 해석합니다.
@@ -441,6 +441,14 @@ VertexManager    ──► 충돌음
 Laser System     ──► 위험 상태 / 초기화
 ```
 
+# 다운로드
+
+Windows용 플레이 가능한 빌드는 GitHub **Releases**에서 확인할 수 있습니다.
+
+- Windows build
+- Android build
+
+[Releases](../../releases)
 ---
 
 # 게임 설계 방향
@@ -503,3 +511,13 @@ DICE CODE의 핵심 설계 원칙은 다음과 같습니다.
 - Unity Audio
 - `PlayerPrefs`
 - `SceneManager`
+
+
+# 다운로드
+
+Windows 및 Android용 플레이 가능한 빌드는 GitHub **Releases**에서 확인할 수 있습니다.
+
+- Windows build
+- Android build
+
+[Releases](../../releases)
