@@ -440,15 +440,6 @@ starBehave       ──► 음높이 / 조명
 VertexManager    ──► 충돌음
 Laser System     ──► 위험 상태 / 초기화
 ```
-
-# 다운로드
-
-Windows용 플레이 가능한 빌드는 GitHub **Releases**에서 확인할 수 있습니다.
-
-- Windows build
-- Android build
-
-[Releases](../../releases)
 ---
 
 # 게임 설계 방향
