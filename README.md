@@ -40,6 +40,10 @@ A 3D puzzle game where players solve room-based challenges by interpreting clues
 
 스포일러를 피하고 싶으신 분들은 게임을 먼저 플레이하길 권장합니다.
 
+실제 게임의 모습을 보고 싶으면 영상을 참고해주세요.
+
+[![DICE CODE Gameplay](https://img.youtube.com/vi/QO5rReQvYoU/maxresdefault.jpg)](https://www.youtube.com/watch?v=QO5rReQvYoU)
+
 
 ### Stage 1 — Dice Faces
 
